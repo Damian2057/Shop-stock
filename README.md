@@ -1,7 +1,7 @@
 # Shop-Stock
 Web application(FE + BE) for placing orders and viewing available products.<br />
 
-Backend build with TypeScript:<br />
+Backend built with TypeScript:<br />
 -TypeORM<br />
 -JWT Authentication<br />
 -Express<br />
@@ -9,7 +9,7 @@ Backend build with TypeScript:<br />
 -cors<br />
 -bcrypt<br />
 <br />
-FrontEnd build with Vue.js(vite)<br />
+FrontEnd built with Vue.js(vite)<br />
 -axios<br />
 -bootstrap<br />
 -lodash<br />
